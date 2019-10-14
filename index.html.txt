@@ -1,4 +1,5 @@
 <!DOCTYPE html>
 <html>
   <h1>HOLA MUNDO</h1>
+  <h2>OTRA MODIFICACIÓN</h2>
 </html>
